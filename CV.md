@@ -13,8 +13,12 @@ Contact info:
 
 
 
-I've just started learning frontend. However, I will make every effort to become a high-level specialist. I will work hard on the project.
+I've just started learning frontend. However, I will make every effort to become a high-level specialist. 
+I also have experience in Talent Acquisition sphere.
 
+**Career objective:** 
+
+To be associated with a reputed, progressive, and a value-driven organization that gives me scope to improve my knowledge, growth chart and give me valuable work experience.
 
 Tech skills:
 =======
@@ -31,5 +35,5 @@ Soft skills:
 * leadership
 
 
-Languages: *russian, belarussian, english*
+**Languages:** *russian, belarussian, english*
 __________________________________________
